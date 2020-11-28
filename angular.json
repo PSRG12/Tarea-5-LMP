@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "T5-Angular"
+  "defaultProject": "T5-Angular",
+  "cli": {
+    "analytics": "b41f7941-4caa-4f3b-a330-d600f4966dcd"
+  }
 }
